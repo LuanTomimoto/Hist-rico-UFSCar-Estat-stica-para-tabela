@@ -46,9 +46,14 @@ DISCIPLINE_MAPPING = {
     "Estatística 2": "Estat2",
     "Probabilidade A": "ProbA",
     "Probabilidade B": "ProbB",
+    "Probabilidade C": "ProbC",
     "Teoria das Organizações": "TeoriaOrg",
     "Computação Básica": "CompBasic",
-    "Estatística Computacional": "EstatComp"
+    "Estatística Computacional A": "EstatCompA",
+     "Estatística Computacional B": "EstatCompB",
+    "Introdução à Computação": "IntrodComp",
+    "Programação Científica": "ProgCie",
+    "Inferência Estatística A": "InfA",
 }
 
 # Função para extrair dados de um PDF
